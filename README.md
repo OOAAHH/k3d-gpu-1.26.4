@@ -6,3 +6,6 @@ Original Docs: https://k3d.io/v5.3.0/usage/advanced/cuda/
 
 Modification: https://github.com/k3d-io/k3d/issues/1108
 - Applied modifications from the GitHub issue to make the build working.
+
+# result
+vlatitude/k3d-gpu/rancher/k3s:v1.26.4-k3s1-cuda 
